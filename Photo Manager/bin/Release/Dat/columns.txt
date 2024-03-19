@@ -1,0 +1,28 @@
+Date
+Title
+Subject
+Img
+Comments
+Author
+Size
+Date Modified
+Dimensions
+Horizontal Resolution
+Vertical Resolution
+Camera Maker
+Camera Model
+Camera Serial
+FStop
+Exposure Time
+Focal Length
+Max Aperture
+Metering Mode
+Subject Distance
+Lens Maker
+Lens Model
+Contrast
+Brightness
+Light Source
+Saturation
+Sharpness
+White Balance

@@ -1,0 +1,6 @@
+C:\Users\philb\OneDrive\Photos\Camera Roll
+C:\Users\philb\OneDrive\Photos\Saved Pictures
+C:\Users\philb\OneDrive\Photos\Screenshots
+C:\Users\philb\OneDrive\Documents\Folder
+C:\Users\philb\Downloads\Suitably edited Photos for testing
+C:\Users\philb\OneDrive\Documents\Arduino

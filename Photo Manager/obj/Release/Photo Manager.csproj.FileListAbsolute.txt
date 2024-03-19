@@ -1,0 +1,17 @@
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\bin\Release\Photo Manager.exe.config
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\bin\Release\Photo Manager.exe
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\bin\Release\Photo Manager.pdb
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\obj\Release\Photo_Manager.PF.resources
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\obj\Release\Photo_Manager.Properties.Resources.resources
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\obj\Release\Photo Manager.csproj.GenerateResource.cache
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\obj\Release\Photo Manager.csproj.CoreCompileInputs.cache
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\obj\Release\Photo Manager.csproj.CopyComplete
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\obj\Release\Photo Manager.exe
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\obj\Release\Photo Manager.pdb
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\obj\Release\Photo Manager.csprojAssemblyReference.cache
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\obj\Release\Photo_Manager.bulkEditForm.resources
+C:\Users\philb\source\repos\Photo Manager\Photo Manager\obj\Release\Photo_Manager.ColumnConfigForm.resources
